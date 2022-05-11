@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zhangyifan's personal website
 
 You can use the [editor on GitHub](https://github.com/Yvonnefanf/Zhangyifan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
