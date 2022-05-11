@@ -1,6 +1,6 @@
 ## Welcome to Zhangyifan's personal website
 
-<div style="display:flex"><img src="avatar.jpg" height="200"/>
+<div display="flex"><img src="avatar.jpg" height="200"/>
   <div style="margin-left: 20px;">You can use the [editor on GitHub](https://github.com/Yvonnefanf/Zhangyifan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.</div>
 </div>
 
