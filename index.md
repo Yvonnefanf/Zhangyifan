@@ -33,8 +33,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 
 ### Education
--(Sep2018 - Jul2020)Master @Donghua University
--(Sep2014 -Jul2018)BS @Donghua University
+- (Sep2018 - Jul2020)Master @Donghua University
+- (Sep2014 -Jul2018)BS @Donghua University
 
 ### Contacts 
 - Email: m18522608197@163.com
