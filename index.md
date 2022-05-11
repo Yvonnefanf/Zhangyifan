@@ -3,7 +3,7 @@
 <div style="display: flex; padding: 20px 0; border-bottom: 1px solid #ccc;
     margin-bottom: 20px;"><img src="avatar.jpg" height="150"/>
   <div style="margin-left: 30px; text-align: justify;">
-    My name is Zhang yifan,I'm now a Research Assistant at National University of Singapore under the supervision of <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Dong Jin Song</a> and mentored by <a href="http://linyun.info/index.html">Prof. Lin Yun</a>. My research interests lie in Deep Learning Engineering.</div>
+    My name is Zhang yifan,I'm now a Research Assistant at National University of Singapore under the supervision of <a href="https://www.comp.nus.edu.sg/~dongjs/" target="_blank">Prof. Dong Jin Song</a> and mentored by <a href="http://linyun.info/index.html" target="_blank">Prof. Lin Yun</a>. My research interests lie in Deep Learning Engineering.</div>
 </div>
 
 
