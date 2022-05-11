@@ -1,7 +1,8 @@
 ## Welcome to Zhangyifan's personal website
 
 <div style="display: flex;"><img src="avatar.jpg" height="200"/>
-  <div style="margin-left: 20px;">You can use the [editor on GitHub] (https://github.com/Yvonnefanf/Zhangyifan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.</div>
+  <div style="margin-left: 20px;">
+    My name is Zhang yifan,I'm now a Research Assistant at National University of Singapore supervised by [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) and mentored by [Prof. Lin Yun](http://linyun.info/index.html). My research interests lie in Deep Learning Engineering.</div>
 </div>
 
 
@@ -38,6 +39,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Contacts 
 - Email: m18522608197@163.com
-- Github page: https://github.com/Yvonnefanf/
-- Google Scholar:
-- LinkedIn: 
+- Github page: [https://github.com/Yvonnefanf/](https://github.com/Yvonnefanf/)
