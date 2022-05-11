@@ -35,6 +35,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 - (Sep2018 - Jul2020)Master @Donghua University
 - (Sep2014 -Jul2018)BS @Donghua University
 
+### Work Experiences
+- (Jun2020 - Jul2022) Senior Software Development Engineer @Glodon Technology Co., Ltd.
+
 ### Contacts 
 - Email: m18522608197@163.com
 - Github page: [https://github.com/Yvonnefanf/](https://github.com/Yvonnefanf/)
