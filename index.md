@@ -2,7 +2,7 @@
 
 <div style="display: flex;"><img src="avatar.jpg" height="200"/>
   <div style="margin-left: 20px;">
-    My name is Zhang yifan,I'm now a Research Assistant at National University of Singapore under the supervision of <a href="https://www.comp.nus.edu.sg/~dongjs/"> and mentored by <a herf="http://linyun.info/index.html">Prof. Lin Yun</a>. My research interests lie in Deep Learning Engineering.</div>
+    My name is Zhang yifan,I'm now a Research Assistant at National University of Singapore under the supervision of <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Dong Jin Song</a> and mentored by <a herf="http://linyun.info/index.html">Prof. Lin Yun</a>. My research interests lie in Deep Learning Engineering.</div>
 </div>
 
 
