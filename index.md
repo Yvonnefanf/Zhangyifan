@@ -1,7 +1,9 @@
 ## Welcome to Zhangyifan's personal website
 
-<img src="avatar.jpg" height="200"/>
-You can use the [editor on GitHub](https://github.com/Yvonnefanf/Zhangyifan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div style="display:flex"><img src="avatar.jpg" height="200"/>
+  <div style="margin-left: 20px;">You can use the [editor on GitHub](https://github.com/Yvonnefanf/Zhangyifan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.</div>
+</div>
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
